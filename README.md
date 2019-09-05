@@ -1,2 +1,2 @@
 # admin
-Administrative material and organization for all things related to AUOC.
+Administrative material and organization for all things related to AU CRU.
