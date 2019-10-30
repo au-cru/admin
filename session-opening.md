@@ -3,7 +3,7 @@
 
 This is what should generally be stated at each start of the session.
 
-1. Introduce AUOC:
+1. Introduce AU CRU:
     - Show website, were to find events, where to go for the material.
     - Trying to develop a community to skill share, support one another, and learn
     better (and proper) ways of using R.
